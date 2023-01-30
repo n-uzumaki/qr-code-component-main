@@ -1,0 +1,41 @@
+.attribution { 
+    font-size: 11px; 
+    text-align: center; 
+}
+
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.card {
+    width: 20rem;
+    margin: 13% 0;
+    border-radius: 30px;
+    text-align: center;
+}
+
+.card-title {
+    font-weight: 700;
+    font-size: 20px;
+    padding: 1% 5%;
+}
+
+.card-text {
+    font-size: 15px;
+    padding: 1% 5%;
+    color: hsl(212, 45%, 89%);
+}
+
+body {
+    background-color:  hsl(212, 45%, 89%);
+}
+
+.card-img-top {
+    padding: 5%;
+    border-radius: 30px;
+}
